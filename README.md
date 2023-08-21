@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about Linux
 - ⚡ Fun fact: I still don't facial hair even I am 26(1996 born) now
 -->
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=KyawMyoThant&show_icons=true&theme=gruvbox" alt="KyawMyoThant" />
